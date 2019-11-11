@@ -1,1 +1,1 @@
-# M220JS---MongoDB-for-JavaScript-Developers
+# M220JS - MongoDB for JavaScript Developers
